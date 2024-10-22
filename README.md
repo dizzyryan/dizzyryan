@@ -8,7 +8,7 @@
   </ul>
 </div>
 
- <h3 align="left">An undergraduate student in CUHK</h3>
+ <p align="left">An undergraduate student in CUHK</p>
 
  <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dizzyryan&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
