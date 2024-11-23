@@ -23,8 +23,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/dizzyryan/count.svg" />
 </p>
-
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="32" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5" style="margin-right: 4px"></div>
-
