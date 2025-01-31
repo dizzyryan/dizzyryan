@@ -12,7 +12,7 @@
 
  <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dizzyryan&show_icons=true&theme=transparent" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyryan&layout=compact" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyryan&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
