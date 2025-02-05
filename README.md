@@ -11,7 +11,7 @@
  <p align="left">An undergraduate student in CUHK</p>
 
  <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dizzyryan&show_icons=true&theme=transparent" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dizzyryan&show_icons=true&theme=transparent&include_all_commits=true" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyryan&layout=compact&theme=transparent" />
 </p>
 
