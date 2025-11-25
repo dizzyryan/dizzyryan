@@ -8,11 +8,15 @@
   </ul>
 </div>
 
- <p align="left">An undergraduate student in CUHK</p>
+<p align="left">An undergraduate student in CUHK</p>
 
- <p align="center">
+<p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=dizzyryan&show_icons=true&theme=transparent&include_all_commits=true" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dizzyryan&layout=compact&theme=transparent" />
+</p>
+
+<p align='center'>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=RyanChan259" alt="LeetCode Badges" />
 </p>
 
 <p align="center">
